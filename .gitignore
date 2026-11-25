@@ -1,0 +1,18 @@
+# Python derleme ve onbellek dosyalari
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal ortamlar
+.venv/
+venv/
+env/
+
+# IDE ve editor ayarlari
+.vscode/
+.idea/
+*.swp
+
+# Isletim sistemi dosyalari
+.DS_Store
+Thumbs.db
